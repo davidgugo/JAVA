@@ -26,6 +26,10 @@ public class TestEx6 {
 		
 		System.out.println(num1 + " " + operator + " " + num2
 				+ " = ");
+		
+		
+		
+		
 		scan.close();
 
 	}

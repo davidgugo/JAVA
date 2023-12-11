@@ -10,11 +10,11 @@ public class TestEx3 {
 		int num = 10;
 		
 		if(num == 0) {
-			System.out.println("0입니다")
+			System.out.println("0입니다");
 		}
 		Scanner scan = new Scanner(System.in);
 		System.out.print("정수를 입력하세요 : ");
-		int num1
+		int num
 		
 
 	}
