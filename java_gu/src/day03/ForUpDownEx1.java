@@ -23,7 +23,7 @@ public class ForUpDownEx1 {
 		Scanner scan = new Scanner(System.in);
 		int num = min -1;
 		//반복문
-		for( ;num != r; ) {
+		ㅇ
 		//정수입력
 			System.out.print("정수 : ");
 			num = scan.nextInt();

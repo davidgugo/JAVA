@@ -14,7 +14,7 @@ public class ForPrimeNumberEx1 {
 		 * 반복문종료후	: count가 2이면 소수, 아니면 소수가 아님이라고 출력
 		 */
 		
-		int num = 4;
+		int num = 2;
 		int count, i;
 		for( i = 1, count = 0;i <= num ; i++ ) {
 			if(num % i == 0) {
